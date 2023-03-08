@@ -19,7 +19,7 @@ const BOTTOM_IMAGES = [
 function Home() {
   return (
     <div style={{textAlign: "center"}}>
-      <h1>img-slot</h1> <a href='/'>reload</a>
+      <h1>ImageSlot</h1> <a href='/'>reload</a>
       <Slot images={TOP_IMAGES}></Slot>
       <Slot images={MIDDLE_IMAGES}></Slot>
       <Slot images={BOTTOM_IMAGES}></Slot>
