@@ -25,3 +25,6 @@
 
 その場合、画像は `public` 配下に入れてください。
 
+## デモ
+
+![image_slot](https://user-images.githubusercontent.com/29344518/223733046-11c6a56c-5ceb-400b-b0f6-ca67bde1db89.gif)
